@@ -1,3 +1,4 @@
+
 # Analysis of P, PI and PID Controllers using MATLAB
 ## Aim:
 To analyse the effect of P, PI and PID controllers for the system having open loop transfer function, G(S)=1/(S^2+10S+20) using MATLAB. 
@@ -130,7 +131,3 @@ Rise time =  0.0615          <br>
 Peak time =  1.04         <br>
 Settling time =  0.882         <br>
 Steady State Error =  0.018      <br>
-
-
-
-
